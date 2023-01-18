@@ -6,10 +6,7 @@ package student;
 
 import java.util.Scanner;
 
-/**
- *
- * @author Admin
- */
+/*author:Admin */
 public class ReverseWorld 
 {
     public static void main(String[] args)
