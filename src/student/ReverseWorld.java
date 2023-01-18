@@ -7,7 +7,6 @@ package student;
 import java.util.Scanner;
 
 /*author:Admin */
-// whatver
 public class ReverseWorld 
 {
     public static void main(String[] args)
