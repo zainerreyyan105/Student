@@ -6,7 +6,7 @@ package student;
 
 import java.util.Scanner;
 /*added comment for fetch+merge*/
-
+/*added comment for pull*/
 /*author:Admin */
 // whatver
 public class ReverseWorld 
