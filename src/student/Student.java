@@ -12,6 +12,15 @@ public class Student
 {
     private String studentID;
     private String studentName;
+    private String studentaddress;
+
+    public String getStudentaddress() {
+        return studentaddress;
+    }
+
+    public void setStudentaddress(String studentaddress) {
+        this.studentaddress = studentaddress;
+    }
     
     public Student(String studentID, String studentName) 
     {
